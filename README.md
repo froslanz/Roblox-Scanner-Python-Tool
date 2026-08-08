@@ -8,7 +8,7 @@ This is a tool developed by me with the help of **AI** to scan Roblox accounts i
 * Clean interface: Simple and optimized ASCII design for all Windows terminals.
 
 ## AI Disclosure
-This project was designed and directed by me, using AI as a copilot to help debugging, and other stuff
+I made this fully with AI no mercy
 
 ## Posible Errors:
 ### User appears offline while playing:
