@@ -18,6 +18,7 @@ This usually happens because the user has their "Who can see my presence" settin
 Even though the script has a auto-installer, some environments (like restricted folders) might block it.
 Fix: Manually install the dependencies/librarys.
 <pre>
+  not today
 &gt; pip install rich fade requests
 </pre>
 ### 3. "User Not Found"
