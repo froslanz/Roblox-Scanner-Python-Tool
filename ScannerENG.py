@@ -2,7 +2,7 @@ import os
 import sys
 import subprocess
 import time
-
+# This sucks.
 os.system('mode con: cols=75 lines=25')
 
 def prepare_environment():
