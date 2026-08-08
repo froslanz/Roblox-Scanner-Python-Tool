@@ -8,8 +8,7 @@ This is a tool developed by me with the help of **AI** to scan Roblox accounts i
 * Clean interface: Simple and optimized ASCII design for all Windows terminals.
 
 ## AI Disclosure
-I made this fully with AI no mercy
-
+no
 ## Posible Errors:
 ### User appears offline while playing:
 This usually happens because the user has their "Who can see my presence" setting is set to "No One" or "Friends". The Public API will return "Offline" This is a restriction from Roblox's side to protect user privacy.
